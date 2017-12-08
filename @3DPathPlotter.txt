@@ -1,0 +1,32 @@
+		*----------------------------------------------------------------------*
+
+#ANDROID PROJECT
+#3D Path Plotter
+#DATE : 14-09-2017
+
+------- INFORMATION ABOUT SERVER ------
+
+User Name : tracer
+Domain : tracer.heliohost.org
+Password : helloproject
+
+User Name : plot3d
+Domain : plot3d.heliohost.org
+Password : helloproject
+
+
+IN QueryProcessor_3Dpath.php
+-----------------------------------
+	$host="localhost";
+	$user="tracer";
+	$password="helloproject";
+	$db="tracer_3Dpath";
+-----------------------------------
+
+DATABASE NAME : tracer_3Dpath
+Table :
+	1> users : | uname varchar(30) | pwd varchar(30) | pno varchar(30) | 
+	
+	2> stauts : | uname varchar(50) | date varchar(30) | time varchar(30) | lati varchar(50) | longi varchar(30) |
+	
+				
