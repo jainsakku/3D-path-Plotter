@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">3D Path Plotter</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Gaurav Khandelwal</string>
+    <string name="slide_1_desc">Topper of the class!</string>
+
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
